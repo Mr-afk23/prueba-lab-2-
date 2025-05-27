@@ -1,24 +1,18 @@
-.inicio {
-    border: 1px solid #000;
-        width: 375px;
-    height: 812px;
-    border-radius: 16px;
-    }
-
-.inicio1 {
-  border: 1px solid #000;
-width: 375px;
- height: 812px;
- border-radius: 16px;
- margin-top: 50px;
+.pantalla {
+  width: 100%;
+  height: 100vh;
 }
 
+.padre
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
-.img2{}
-
-
-.img3{
-    position: absolute;
-    padding-top: 200px;
-    padding-right: 200px;
+.padre a{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35rem;
 }

@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(7,7,31);
+}
+
+.header , img{
+justify-content: space-between;
+}
+
+.img{
+    height: 170px;
+}
+
+.log{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin-top: -18rem;
+    color: white;
+}
+
+.log h2{
+    font-size: 3rem;
+}
+
+.log p{
+    font-size: 1.3rem;
+}
+
+.in{
+    border: 1px solid black;
+    height: 40.2rem;
+    width: 39.8rem;
+    margin-top: 1rem;
+    background-color: white;
+    border-radius: 1.6rem;
+}
